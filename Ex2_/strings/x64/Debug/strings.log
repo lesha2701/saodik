@@ -1,0 +1,3 @@
+﻿  strings.cpp
+D:\programming\c++\Ex2_\strings\strings.cpp(21): warning C4715: compare: значение возвращается не при всех путях выполнения
+  strings.vcxproj -> D:\programming\c++\Ex2_\x64\Debug\strings.exe
